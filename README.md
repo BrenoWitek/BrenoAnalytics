@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Breno
+## 👋 Olá! Me chamo Breno
 
 🎯 **Analista de Dados** com mindset de desenvolvedor — unindo lógica, código e automação para transformar dados em decisões inteligentes.
 
@@ -8,7 +8,7 @@
 - Criação de dashboards inteligentes com **Power BI** (incluindo RLS e automações).
 - Desenvolvimento de APIs REST em **Python (Flask/FastAPI)** e agora também em **Go**.
 - Integrações com banco de dados **MySQL**, **PostgreSQL** e **Neon**.
-- Projetos embarcados com **ESP32**, **RFID**, **EEPROM** e **NTP Sync**, prontos para produção offline.
+- Projetos embarcados com **ESP32**, **RFID**, **EEPROM** e **NTP Sync**, prontos para produção online e offline.
 
 🚀 Meus interesses incluem:
 - Otimização de sistemas em tempo real
@@ -24,5 +24,5 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 📫 **Vamos conversar?**
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seuemail@email.com
+- [LinkedIn](www.linkedin.com/in/breno-witek-87aa3222b)
+- Email: breno.witek1@gmail.com
